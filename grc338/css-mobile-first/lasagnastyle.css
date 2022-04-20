@@ -23,8 +23,8 @@ h1 {
     color: #FAFAFA; 
     padding: 3rem 1rem 1rem; /* You want three values. */
     font-family: Sutro, serif;  
-    font-size: 2.4em;
-    line-height: 100%;  /* A little extra leading. */
+    font-size: 2.6em;
+    line-height: 120%;  /* A little extra leading. */
     font-weight: 700;  
     font-style: bold;
 }
@@ -34,7 +34,7 @@ h2 {
     color: #FFDDBB; 
     font-family: Sutro, serif;  
     font-size: 1.8em;
-    padding: 1rem 1rem 2rem; /* You want three values. */
+    padding: 1rem 1rem 2.4rem; /* You want three values. */
     font-weight: 300;  
     font-style: normal;
 }
@@ -49,10 +49,10 @@ figcaption {
 }
 
 h3{
-    padding: 3rem 3rem 1rem; /* You want three values. */
+    padding: 3rem 1rem 1rem; /* You want three values. */
     color: #FF8800;
     font-family: Sutro, serif; 
-    font-size: 1.3em; 
+    font-size: 1.2em; 
     text-transform: uppercase;
     font-weight: 300;  
     letter-spacing: 0.1em;
