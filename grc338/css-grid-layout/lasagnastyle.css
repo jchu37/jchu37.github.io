@@ -13,11 +13,11 @@ caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed
 footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0;
 padding: 0; border: 0; font-size: 100%; font: inherit; display: block;}
 body{
-    background-color: rgb(221,221,221);
+    background-color: #DDDDDD;
 }
 div.container{ 
     max-width: 70em;
-    background-color: rgb(250,250,250);
+    background-color: #FAFAFA;
     margin: 0 auto;
 }
 main{
