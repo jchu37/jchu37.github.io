@@ -5,12 +5,11 @@
 }
 img {
     width: 100%; 
-    display: block;
     margin-top: 6%;
     margin-bottom: 6%;
 }
 nav ul {
-    padding 0;
+    padding: 0;
 }
 nav ul li {
     display: inline;
@@ -41,7 +40,7 @@ section{
     margin-right: 2em;
 }
 h1{
-    width: 15em;
+    width: 10em;
 }
 h2{
     color: #9d9d9d;
@@ -133,7 +132,6 @@ li{
         display: grid;
         grid-gap: 3em;
         grid-template-columns: 1fr 1fr;
-        margin: 0 3em 0 3em;
     }   
 }
 /*Please don’t change this CSS stylesheet for the content hierarchy assginment */
