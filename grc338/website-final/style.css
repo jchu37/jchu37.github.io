@@ -8,9 +8,6 @@ img {
     margin-top: 6%;
     margin-bottom: 6%;
 }
-nav ul {
-    padding: 1rem;
-}
 nav ul li {
     display: inline;
     list-style-type: none;
