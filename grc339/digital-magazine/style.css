@@ -1,0 +1,99 @@
+/*CSS document*/
+
+body {
+
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul {
+    padding:0em 1em 1em 1em;
+
+}
+
+
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 2em;
+    font-family: playfair-display, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2em;
+    letter-spacing: 0.05em;
+}
+
+nav ul li a:hover {
+    color: #E0AFA0;
+}
+
+nav ul li a{
+    color: #463F3A;
+    text-decoration: none;
+}
+
+p {
+    font-family: source-sans-pro, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 125%;
+    font-size: 1em;
+}
+
+figcaption{
+    font-family: source-sans-pro, sans-serif;
+    font-style: italic;
+    font-weight: 200;
+    color: #8A817C;
+
+}
+
+h3{
+    font-family: playfair-display, serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h2{
+    font-family: playfair-display, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2em;
+    color: #E0AFA0;
+}
+
+a{
+    text-decoration: none;
+}
+a h3{
+    font-family: playfair-display, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8em;
+    color: #8A817C;
+    margin: 1em 0em 0em 0em;
+}
+a p {
+    font-family: source-sans-pro, sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    color: #463F3A;
+    margin-bottom: 2em;
+
+}
