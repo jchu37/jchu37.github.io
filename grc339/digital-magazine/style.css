@@ -128,7 +128,7 @@ form ul li {
 }
 
 
-main {
+main.gallery {
     position: relative;
     overflow: hidden;
     padding-bottom: calc(110% + 3em);
